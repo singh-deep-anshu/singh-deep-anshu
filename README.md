@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Singh</h1>
 <h3 align="center">I'm an undergraduate student at IIIT Allahabad. I love building scalable software, solving algorithmic problems, and working on impactful tech products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-deep-anshu&label=Profile%20views&color=0e75b6&style=flat" alt="singh-deep-anshu" /> </p>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](www.linkedin.com/in/shivam-kumar-singh-635b5328a/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singh-deep-anshu" alt="singh-deep-anshu" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-deep-anshu&label=Profile%20views&color=0e75b6&style=flat" alt="singh-deep-anshu" /> </p>
 
 - 🔭 I’m currently working on [LogistiQ - Transporter Management Platform](https://github.com/singh-deep-anshu/LogistiQ)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **System Design & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://singh-deepanshu.netlify.app/](https://singh-deepanshu.netlify.app/)
 
